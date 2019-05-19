@@ -1,2 +1,2 @@
 # Cplusplus
-My amatuer C++ codes
+My C++ codes
